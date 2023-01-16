@@ -55,7 +55,7 @@ This documentation is longer than the source code.
 
 
 ["Hello, World!" program]: https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
-[C]: https://en.wikipedia.org/wiki/C_(programming_language)
+[Python]: https://www.python.org/
 [make]: https://www.gnu.org/software/make/
 [CI]: https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration
 [GitHub Actions]: https://docs.github.com/en/actions
