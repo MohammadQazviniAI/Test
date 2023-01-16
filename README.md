@@ -40,7 +40,10 @@ Or run tests individually:
 
 ## Important files
 
-* [src/hello.py](src/hello.py)
+* [src/hello.py](src/hello.py) --- a standalone "Hello, World!" program in Python
+* [src/hellolib.py](src/hellolib.py) --- a "library" for building hello world programs
+* [src/hellomain.py](src/hellomain.py) --- an overcomplicated "Hello, World!" implementation
+* [test/test_hello.py](test/test_hello.py) --- unit tests to `hellolib.py`
 * [Makefile](Makefile)
 
 
