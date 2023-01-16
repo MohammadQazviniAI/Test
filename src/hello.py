@@ -3,7 +3,7 @@
 # Hello World in Python
 #
 #
-# Copyright (C) 2020-2022  Rudy Matela
+# Copyright (C) 2023  Rudy Matela
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
@@ -18,4 +18,4 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-print("Hello, World")
+print("Hello, World!")
