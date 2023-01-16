@@ -20,6 +20,23 @@ You should see the following on the screen:
 
 	Hello, World!
 
+There is also a version of the hello world implemented
+in two separate files, with a library and a main program file.
+Run it with:
+
+	python src/hellomain.py
+
+To run the tests, use pytest like so:
+
+	PYTHONPATH=src pytest
+
+It will detect and run doctests and unit tests.
+
+Or run tests individually:
+
+	PYTHONPATH=src python test/test_hello.py
+	python src/hellolib.py
+
 
 ## Important files
 
