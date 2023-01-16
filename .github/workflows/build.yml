@@ -19,4 +19,5 @@ jobs:
     - run: python --version
     - run: python src/hello.py
     - run: python src/hellomain.py
+    - run: PYTHONPATH=src pytest
     - run: make run
