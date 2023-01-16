@@ -60,3 +60,9 @@ def print_hello():
     """
 
     print(return_hello())
+
+
+if __name__ == "__main__":
+    import doctest
+
+    doctest.testmod()
