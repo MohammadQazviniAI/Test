@@ -25,7 +25,7 @@ of how to use docstrings.
 Not really useful in practice.
 
 >>> return_hello()
-"Hello, World!"
+'Hello, World!'
 
 >>> print_hello()
 Hello, World!
@@ -37,7 +37,7 @@ def return_hello():
     This function returns the "Hello, World!" string
 
     >>> return_hello()
-    "Hello, World!"
+    'Hello, World!'
 
     This serves as Python docstring example,
     in practice this function is not useful.
