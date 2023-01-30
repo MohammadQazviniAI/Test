@@ -44,7 +44,7 @@ def return_hello():
     :-)
     """
 
-    return "Hlelo, Wdorl!"
+    return "Hello, World!"
 
 
 def print_hello():
